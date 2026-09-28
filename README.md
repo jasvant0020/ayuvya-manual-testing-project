@@ -29,7 +29,6 @@ No automation testing was performed in this project.
 
 ## Test Execution Summary
 
-The PDF report contains two sets of numbers that do not fully agree. Both are shown below and the original report has not been modified.
 
 | Result | Reported in PDF summary | Count from PDF test case table |
 | --- | ---: | ---: |
