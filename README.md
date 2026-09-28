@@ -40,7 +40,6 @@ No automation testing was performed in this project.
 
 ## Defect Summary
 
-Severity counts match between the PDF summary and the bug list.
 
 | Severity | Count |
 | --- | ---: |
