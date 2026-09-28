@@ -103,11 +103,7 @@ ayuvya-manual-testing-project/
 ├── Test-Summary/
 │   └── Test_Execution_Summary.xlsx
 └── Screenshots/
-    ├── README.md
-    ├── login/
-    ├── otp/
-    ├── api/
-    └── bugs/
+    └── README.md
 ```
 
 ## Tools Used
@@ -126,7 +122,6 @@ ayuvya-manual-testing-project/
 | Complete original report (unmodified) | `Test-Report/Ayuvya_Manual_Testing_Report.pdf` |
 | Screenshots / evidence | `Screenshots/` (see its README) |
 
-Fields that the original report does not contain (for example test case description, preconditions and priority) are marked `Not Available` in the workbooks.
 
 ## Disclaimer
 
