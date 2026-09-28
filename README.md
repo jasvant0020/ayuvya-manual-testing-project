@@ -88,7 +88,6 @@ No tokens, OTPs or credentials are recorded in this repository.
 - **API:** HTTP 200 returned for a failed OTP request (BUG011).
 - **UI / content:** grammar in a validation message (BUG001); "welcome back" greeting for a first-time user (BUG008); cart count flickers after logout (BUG009).
 
-Evidence links for BUG008 to BUG011 are given in the bug report (Google Drive links taken from the PDF). BUG001 to BUG007 are listed with no screenshot in the source.
 
 ## Repository Structure
 
