@@ -10,7 +10,7 @@ Manual testing of the **Login / Authentication module** of the Ayuvya website, d
 | Module tested | Login / Authentication (mobile number + OTP login, logout, session behavior) |
 | Testing type | Manual Testing |
 | Browser | Chrome |
-| Test date / submission date | 07/07/2026 |
+| Test date / submission date | */*/2026 |
 | Candidate | Jasvant |
 
 **Purpose / scope:** validate the login functionality of the application, covering phone number input validation, OTP generation and verification, OTP request limits, login and logout, session behavior, and the login API response as seen in the browser's Network tab. This was done as a QA interview assignment.
